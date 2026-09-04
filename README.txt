@@ -1,37 +1,40 @@
-# 🎬 KARTOONS — Netflix-style Streaming
+# NepToons — Netflix-style cartoon streaming
 
-Movie/shows add karo aur Netflix-style UI me stream karo.
-**Flask sirf backend hai** (M3U/stream/API). UI `web/` folder me (index.html + app.js + style.css).
+NepToons is a small Flask streaming library with a cinematic, Netflix-inspired browser UI. The backend keeps movie metadata and stream URLs in `movies.json`, while the frontend is embedded in `test.py` so the project can run with a single Python file.
 
-## Setup (ek baar)
+## Setup
+
 ```bash
-pip install flask pycryptodome
+python3 -m pip install flask pycryptodome
 ```
 
-## Files
-- `kartoons.py` — Flask backend (M3U + stream proxy + JSON API)
-- `web/` — frontend (index.html, app.js, style.css)
-- `curl.txt` — apna naya curl yahan daalo (token ke saath)
-- `movies.json` — DB (auto)
+Add a current API curl command with its bearer token to `curl.txt` before adding new titles.
 
 ## Run
+
 ```bash
-python3 kartoons.py serve
+python3 test.py serve
 ```
-Browser: **http://localhost:5000**
-VLC: `vlc http://localhost:5000/movies.m3u8`
 
-## Browser se add (1 click)
-Home par **+ Add** kholo:
-1. **Curl/Token** — naya curl paste karke Update dabao (token save)
-2. **Preview** — movie ID, curl, ya poora show ka all-episodes curl/JSON paste karo → Preview
-3. **Show** mila to episodes dikhte hain → **select up to 4** → Add Selected (max 4 per click)
-4. Movie(s) mili to direct Add
+Open **http://localhost:5000** in a browser. The M3U playlist is available at `http://localhost:5000/movies.m3u8` for VLC or compatible players.
 
-## Features
-- Hero banner auto-rotate (har 6s)
-- Genre rows + Continue Watching feel
-- Search (live)
-- Netflix-style player: play/pause, ⏪10/10⏩, seek bar, volume, fullscreen, keyboard
-- Movie + Episode dono support
-- Delete from Library
+## UI features
+
+- Dark cinematic hero section with a red NepToons brand system.
+- Responsive horizontal content rails grouped by library category.
+- Live title search across movie names, groups, and tags.
+- HLS playback page with poster, metadata, and stream proxy support.
+- Continue-ready library management panel for adding, previewing, and removing titles.
+- Show/season preview with up to four episodes added per action.
+- Existing token update, movie add, episode add, delete, JSON database, and stream proxy logic preserved.
+
+## Add or remove titles
+
+From the home page, choose **Manage titles**. The dialog supports:
+
+1. Updating the saved token by pasting a new curl command.
+2. Previewing a movie ID, episode curl, show URL, or all-episodes payload.
+3. Adding a movie directly or selecting up to four episodes.
+4. Removing an existing library title without touching unrelated records.
+
+The JSON database remains `movies.json`; the UI calls the existing `/api/movies`, `/api/curl`, `/api/preview`, `/api/add`, and `/api/delete` endpoints.
