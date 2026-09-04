@@ -1,6 +1,6 @@
 # NepToons — Nepali Toons Streaming
 
-> **NepToons is a modern, Netflix-inspired cartoon streaming library for Nepali audiences. Browse, search, watch, save, manage, and personalize your favorite cartoons from one beautiful dark cinema interface.**
+> **NepToons is a Nepali Toons streaming service created by Diwas Khatri — a beautiful home for cartoons, animated stories, and family-friendly entertainment.**
 
 [![NepToons](https://img.shields.io/badge/NepToons-Nepali%20Toons-E50914?style=for-the-badge)](https://github.com/DiwasKhatri07/nep-toons)
 [![Repository](https://img.shields.io/badge/Repository-Public-2ea44f?style=for-the-badge&logo=github)](https://github.com/DiwasKhatri07/nep-toons)
@@ -11,9 +11,11 @@
 
 ## NepToons ke ho?
 
-**NepToons**, original application branding **Kartoons**, ek self-hostable Nepali cartoon and animation streaming app ho. Yo project ma Netflix jasto discovery experience, dark cinematic theme, movie rails, watch page, HLS streaming, profiles, authentication, My List, Continue Watching, catalog management, and VLC playlist support cha.
+**NepToons** is the main product identity: a Nepali Toons streaming service made and developed by **Diwas Khatri**. The original internal application branding is **Kartoons**, while NepToons is the public-facing name for the Nepali cartoon and animation experience.
 
-Yo project ko main goal simple cha: **Nepali users ko lagi cartoon library lai clean, modern, fast, and enjoyable banaune.**
+Yo Netflix clone hoina. Streaming apps bata familiar usability idea liye pani main purpose Nepali Toons ko own identity, cartoon library, animated stories, and family entertainment ho.
+
+Yo project ko main goal simple cha: **Nepali users ko lagi cartoons ra animated content lai clean, modern, fast, beautiful, and easy-to-use service banaune.**
 
 > **Developer credit:** NepToons is created and developed by **Diwas Khatri**.
 
@@ -27,9 +29,17 @@ Yo project ko main goal simple cha: **Nepali users ko lagi cartoon library lai c
 
 **Important:** Sandbox tunnel temporary ho. Sandbox sleep or process stop bhayo bhane link off huncha. GitHub Pages le static UI matra serve garcha; Python Flask backend, login, database writes, token update, and HLS proxy GitHub Pages ma run hudaina.
 
+## Demo showcase
+
+Yo 44-second screen recording ma NepToons ko real watch experience, Nepali Toons catalog, player, movie metadata, and dark animated interface dekhaeko cha. Video **Diwas Khatri** ko NepToons demo showcase ho.
+
+**[Watch the NepToons demo recording](https://github.com/DiwasKhatri07/nep-toons/raw/main/docs/demo/neptoons-demo.mp4)**
+
+Demo file: `docs/demo/neptoons-demo.mp4` · H.264/AAC · 1918×1078 · approximately 44 seconds.
+
 ## Main features
 
-### Netflix-style UI
+### NepToons animated streaming interface
 
 - Cinematic hero banner with featured movie.
 - Dark red NepToons branding.
@@ -89,7 +99,7 @@ Yo project ko main goal simple cha: **Nepali users ko lagi cartoon library lai c
 ```text
 User browser
     │
-    ├── Netflix-style HTML/CSS/JavaScript UI
+    ├── NepToons streaming-style HTML/CSS/JavaScript UI
     │      ├── Home, search, rails, cards
     │      ├── Login, profiles, My List
     │      ├── Watch page, cinema mode, share
@@ -326,13 +336,13 @@ Command le temporary `https://....lhr.life` URL dincha. Yo URL sandbox, terminal
 
 ### Created by Diwas Khatri
 
-**Diwas Khatri** is the developer and project owner behind NepToons. The original implementation branding is **Kartoons**, while the public product identity is **NepToons — Nepali Toons Streaming**.
+**Diwas Khatri** is the developer and project owner behind NepToons. The original implementation branding is **Kartoons**, while the public product identity is **NepToons — Nepali Toons Streaming**, created by **Diwas Khatri**.
 
 - Developer: **Diwas Khatri**
 - Project: **NepToons / Kartoons**
 - Repository: [DiwasKhatri07/nep-toons](https://github.com/DiwasKhatri07/nep-toons)
 - Product focus: Nepali cartoon and animation streaming
-- Interface direction: Netflix-inspired cinema UI
+- Interface direction: streaming-style cinema UI
 
 ## Production checklist
 
