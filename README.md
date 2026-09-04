@@ -22,7 +22,7 @@ Yo project ko main goal simple cha: **Nepali users ko lagi cartoon library lai c
 | Preview | Link | Kasto version ho? |
 |---|---|---|
 | Public GitHub repository | [github.com/DiwasKhatri07/nep-toons](https://github.com/DiwasKhatri07/nep-toons) | Full public source code |
-| Sandbox full-stack preview | [Open NepToons](https://8ff92a351b99bf.lhr.life) | Real Flask app; temporary tunnel |
+| Sandbox full-stack preview | [Open NepToons](https://8095d1c807ece8.lhr.life) | Real Flask app; temporary tunnel |
 | GitHub Pages static preview | [Open static preview](https://diwaskhatri07.github.io/nep-toons/) | Frontend-only demo; Pages activation may be required |
 
 **Important:** Sandbox tunnel temporary ho. Sandbox sleep or process stop bhayo bhane link off huncha. GitHub Pages le static UI matra serve garcha; Python Flask backend, login, database writes, token update, and HLS proxy GitHub Pages ma run hudaina.
