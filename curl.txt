@@ -1,0 +1,6 @@
+curl --url 'https://api.kartoons.me/api/shows/episode/68a456156a8ec0f66f205d17/links' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.5' \
+  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyOTIzMDU0OTg4OTAxMDQ2OSIsImV4cCI6MTc5MTEwMzUwMX0.h2zhhMzkkiB7MtE0sadt5UcWH9NaglIEAQOk-S2ZUUI' \
+  -H 'origin: https://kartoons.me' \
+  -H 'referer: https://kartoons.me/'
