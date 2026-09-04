@@ -18,15 +18,35 @@ python3 test.py serve
 
 Open **http://localhost:5000** in a browser. The M3U playlist is available at `http://localhost:5000/movies.m3u8` for VLC or compatible players.
 
+For production, set a unique secret before starting the server:
+
+```bash
+export NEPTOONS_SECRET="replace-with-a-long-random-secret"
+```
+
 ## UI features
 
 - Dark cinematic hero section with a red NepToons brand system.
 - Responsive horizontal content rails grouped by library category.
 - Live title search across movie names, groups, and tags.
 - HLS playback page with poster, metadata, and stream proxy support.
-- Continue-ready library management panel for adding, previewing, and removing titles.
+- Continue Watching rail based on saved playback position.
+- My List favorites scoped to the active profile.
+- Library management panel for adding, previewing, and removing titles.
 - Show/season preview with up to four episodes added per action.
-- Existing token update, movie add, episode add, delete, JSON database, and stream proxy logic preserved.
+
+## Accounts and profiles
+
+NepToons now includes local account authentication and profile support:
+
+- Sign up with a name, email, and password.
+- Log in and log out using secure HTTP-only cookies.
+- Create and switch between multiple viewing profiles.
+- Keep My List favorites and watch progress separate for each profile.
+- Resume HLS playback from the last saved position.
+- A user always keeps at least one profile.
+
+User records are stored in `users.json`, separate from the movie database. Passwords are stored as Werkzeug password hashes, never as plain text. For a shared or public deployment, use HTTPS, set `NEPTOONS_SECRET`, and place the app behind a production WSGI server.
 
 ## Add or remove titles
 
@@ -37,4 +57,4 @@ From the home page, choose **Manage titles**. The dialog supports:
 3. Adding a movie directly or selecting up to four episodes.
 4. Removing an existing library title without touching unrelated records.
 
-The JSON database remains `movies.json`; the UI calls the existing `/api/movies`, `/api/curl`, `/api/preview`, `/api/add`, and `/api/delete` endpoints.
+The JSON movie database remains `movies.json`; the UI calls the existing `/api/movies`, `/api/curl`, `/api/preview`, `/api/add`, and `/api/delete` endpoints. Authentication and personalization use `/api/auth/*`, `/api/profile`, `/api/profile/favorite`, and `/api/profile/progress`.
