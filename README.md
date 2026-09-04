@@ -11,7 +11,7 @@
 
 ## Live previews
 
-- **Sandbox full-stack test tunnel:** [Open NepToons](https://3bb80b1ffc796d.lhr.life) — temporary; available only while the sandbox process is running.
+- **Sandbox full-stack test tunnel:** [Open NepToons](https://8ff92a351b99bf.lhr.life) — temporary; available only while the sandbox process is running.
 - **GitHub Pages static preview:** [Open the Pages preview](https://diwaskhatri07.github.io/nep-toons/) — requires GitHub Pages to be enabled for the repository's Actions deployment workflow.
 - **Repository:** [github.com/DiwasKhatri07/nep-toons](https://github.com/DiwasKhatri07/nep-toons)
 
