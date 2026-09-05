@@ -1,124 +1,353 @@
 [
-  {
-    "id": "68581985c2227147ba5a6a30",
-    "title": "Doraemon: Nobita's Sky Utopia",
-    "description": "Doraemon, Nobita and his friends go to find Utopia, a perfect land in the sky where everyone lives with happiness, using an airship having a time warp function.",
-    "image": "https://image.tmdb.org/t/p/w500/uux6M8z3hxLDkq8LXSzq8528mrq.jpg",
-    "year": 2023,
-    "rating": 8.3,
-    "duration": 109,
-    "tags": [
-      "Animation",
-      "Adventure",
-      "Science Fiction",
-      "Family"
-    ],
-    "group": "Cartoon",
-    "stream": "https://v8.worker8-a96.workers.dev/playlist/eFhEPL2L7VHjxorYnU4tkx2PILtLVmpynGPdyuoFHJHawR1QfmmpJTanaJLp7WuMcuIlvrjEveCeBMLNmYXXDgKHKsCmUbKDSATcAx0bEenq1_Dld4uEK3vJHezdKQ_vPfCnzg3UYrwc7x0uBgvOTCrEcsQlKe7lPKY7e2vWiWTlrpsVZq6z0U7C3Q5JNLCnEIkeWUvweHoVTMqp741p4mg9RRAYkQ"
-  },
-  {
-    "id": "681987f124c9061ac54aa569",
-    "title": "Doraemon: Nobita's Three Visionary Swordsmen",
-    "description": "Tired of constantly having nightmares, Nobita ask for Doraemon to bring a Dream Machine which would allow Nobita to dream of anything he wants. After an attempt to have a dream about the fall of Atlantis fails, he chooses a dream where he is in a fantasy world with an inspiration from The Three Musketeers. Together Nobita and his friends must defeat the evil King before he escapes from Nobita's dream into other people's dreams.",
-    "image": "https://image.tmdb.org/t/p/w500/oCQtdezF7Ap5wm8ICiB3Pzx6wM4.jpg",
-    "year": 1994,
-    "rating": 8.7,
-    "duration": 100,
-    "tags": [
-      "Animation",
-      "Family"
-    ],
-    "group": "Cartoon",
-    "stream": "https://v42.m3u8cat.workers.dev/playlist/CY8BxMiOzGKg7dr9WtIR4zu-Ckyw7hk92nFDx_jVhHl_bkA7QB_zhc76PLsYyD3_K5iVbPJzcrYxq2gvj4vVyvcsaa7vDPl7iJOhDAL8g1gxXuGca0NE2eWPX-QO2x6a6axiBPjHPiHsPPh3-WImbNqk0gBe6rWWYzlA76p8hOjhAvgGcYGVAlB_QJbE85QC0FDrW7o8tdZYW_hhOL62Nd9hCzMYsDB_dgI"
-  },
-  {
-    "id": "68d7cd22c05a53cb918fa266",
-    "title": "Shin chan Horror Episodes Collection (Part 2)",
-    "description": "Part 2 of the Shin Chan Horror Collection Series, all segments are cencored",
-    "image": "https://user-images.lasyhost.tech/images/2026/01/e6ada09a6b527a2b85139618184815b8.jpg",
-    "year": 2025,
-    "rating": 9.0,
-    "duration": 41,
-    "tags": [
-      "Animation",
-      "Horror",
-      "Shin Chan"
-    ],
-    "group": "Cartoon",
-    "stream": "https://v130.wkr130x7442wkr130x7442wkr130x7442.workers.dev/playlist/7oYpHV0MOYfikJ-2epkY7goEN9DInBcMQ8Q6Iyd72j3NZBfntUh9F_NW_6-qexwIBgGHKyrxaO0gNKr1IXSiaTGwph3KfgM0JC_081EZCBosAZNQUCb4KPeSZhdTVyTWCuGP0Qt5nVKvc0uSOYgpR4_qaJ9JQZCO3nhjmbuujUtLjn6ZkYX6322A7M2xOYZvtUtyRWM"
-  },
-  {
-    "id": "68a456156a8ec0f66f205d17",
-    "kind": "episode",
-    "title": "Hamara Wala Oggy \u00b7 S1E1",
-    "description": "A light blue cat named Oggy gets a box of cherry-chocolates delivered to his home and goes inside to enjoy them. However, his archenemies, three mischief-making cockroaches named Dee Dee, Joey, and Marky, have decided to take the sweets for themselves, and a chase begins throughout the house. Oggy\u2019s cousin, Jack, nurses Oggy and vows to get back the box of sweets, even if it involves blowing up the house. This is the first episode that started the rivalry between cat and roaches.",
-    "image": "https://image.tmdb.org/t/p/w500/aFAN9aKm0OblOr30ROejJCV8rGf.jpg",
-    "year": null,
-    "rating": null,
-    "duration": 7,
-    "tags": [],
-    "group": "show",
-    "episode": "S1E1",
-    "stream": "https://v82.m3u8rsk.workers.dev/playlist/rKbg6rRUpXpPtoHxPwmIpFiIXex5_SiEJelgoE5XoMOeifqWw57c767r9TS1rjgn1GDDi2R-acr0Gnul_LCal4EgidHZOUcl4X1PGF0h31rAY3BnIymJnFJJgfkSSNGVk04tMDxF6X5ZWzbMdHDRbKA8WJDT7jBDOdGxiwygEWFIf8942dZH1l4"
-  },
-  {
-    "id": "68a456156a8ec0f66f205d18",
-    "kind": "episode",
-    "title": "Hamara Wala Oggy \u00b7 S1E2",
-    "description": "During an afternoon, Jack is snoozing on his hammock while Oggy is tending the garden. The roaches jump into Jack's head so that they can control him to wreak havoc on Oggy.",
-    "image": "https://image.tmdb.org/t/p/w500/aFAN9aKm0OblOr30ROejJCV8rGf.jpg",
-    "year": null,
-    "rating": null,
-    "duration": 7,
-    "tags": [],
-    "group": "show",
-    "episode": "S1E2",
-    "stream": "https://v20.worker20-120.workers.dev/playlist/faajIIo42GSwWs-9bfwmGYQN4z3wDWyphVpEVlGGbryUOamPCU8eFTTWvLVDNBDFTc6A1BBEUFNunrWaF5nys1aUmEgOmMoEe8iTFbQuz7y2ARHwoaqKmnHNV2y-ytAmXwvMXOqPA1tCP0AxL89RhQ8b8ZenaQQFeCybgSitb6IjYuO3dd6csZU"
-  },
-  {
-    "id": "693acd83184e77f559062d7e",
-    "kind": "movie",
-    "title": "Motu Patlu and The Madness of Multiverse",
-    "description": "Motu and Patlu join forces with their future and prehistoric selves to stop evil versions of them who plan to destroy every Motu-Patlu across time.",
-    "image": "https://user-images.lasyhost.tech/images/2026/01/d2cd1d06dacb0ea8c5754bc64853d96e.jpg",
-    "year": 2025,
-    "rating": 6.2,
-    "duration": 69,
-    "tags": [
-      "Animation"
-    ],
-    "group": "Cartoon",
-    "stream": "https://v107.m3u8v107x.workers.dev/playlist/Jv0IwqoIWRqeMKIMofx-cgKQ4RidJfMmM46cv05wBqXwoCJ592vxsKLa-O5xoGJkQrNdrCy0sTs0UENMQ4_yW3VwtUq9dvkrzbwUtBOVb5MBXKaEiF4QCjncsapviAobJ9tSOUCu1SJ4AIh9kSqkpKakF8wESTILyAXzDVYDS7k5WUGhlDdxH9JyLZUJoVgvfTg3wyfZ4k2ApixvIzh5znsnG0E"
-  },
-  {
-    "id": "685512e191df6adc34090e6b",
-    "kind": "movie",
-    "title": "Motu Patlu & Robo Kids",
-    "description": "For Motu, facing off against three children becomes an unexpected challenge when he realizes they have superstrength -- and a secret!",
-    "image": "https://image.tmdb.org/t/p/w500/zNhLhelKu3F3UAvam9usXtMuXSO.jpg",
-    "year": 2019,
-    "rating": 6.2,
-    "duration": 82,
-    "tags": [
-      "Animation"
-    ],
-    "group": "Cartoon",
-    "stream": "https://v127.wkr127x7399wkr127x7399wkr127x7399.workers.dev/segment/AceoRhEuE1nDMg1H0Qc3MtQLbj6CXd8XW2bwyV07VsJpxwwpQscYTwZpyfMUr4q-nHXaTru-yFE3SC_4NTOHxQ79gi7E7FxHOT3IMkjqYB7OwpmQyIR8_pjw4OO7EydMzub1K6_rzGdKW1PCDarbeQORimD8eCvNyHOgUvRp7iuEQlP-_zZPAfItfAPfMWqkHwE3m5S7wJSZw2Po4cVUZpbtsTVlD68gCvlcqtA6pOv--YwmQQ"
-  },
-  {
-    "id": "693acb691d83046768aa2e97",
-    "kind": "movie",
-    "title": "Motu Patlu & the Mighty Magnathor",
-    "description": "The duo of Motu and Patlu journey to the land of Gagnathoros, inhabited by giants. They encounter the Magnathor, who aims to shrink planets for his crown. Motu and Patlu must battle beasts and protect the Moon and Sun.",
-    "image": "https://user-images.lasyhost.tech/images/2026/01/79795fe60455849273bad62e5d4a4ae9.jpg",
-    "year": 2025,
-    "rating": 8.5,
-    "duration": 68,
-    "tags": [
-      "Hindi",
-      "Animation"
-    ],
-    "group": "Cartoon",
-    "stream": "https://v105.m3u8v105x.workers.dev/playlist/QvUio-QiyS7GYCWsXkZGbk01ugFBzHo0rT-JF3VejdCZELkWKCEMb-RcWOMd-bNlpEybsK-oa5-KhuGcFPOf-YiWydYA-IMB2APRZLWLufDZwpkoTf3MnaAbxMCUQH9f_Icrh65PkgTod2Dch678pHEqYy-7aA-EeYzBDDwo3a6PNNNsCKKbN_TDrYG_fo8vWFlQ89Uro3JreYJzzq3tckqKvcE"
-  }
+    {
+        "id": "68581985c2227147ba5a6a30",
+        "title": "Doraemon: Nobita's Sky Utopia",
+        "description": "Doraemon, Nobita and his friends go to find Utopia, a perfect land in the sky where everyone lives with happiness, using an airship having a time warp function.",
+        "image": "https://image.tmdb.org/t/p/w500/uux6M8z3hxLDkq8LXSzq8528mrq.jpg",
+        "year": 2023,
+        "rating": 8.3,
+        "duration": 109,
+        "tags": [
+            "Animation",
+            "Adventure",
+            "Science Fiction",
+            "Family"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v8.worker8-a96.workers.dev/playlist/eFhEPL2L7VHjxorYnU4tkx2PILtLVmpynGPdyuoFHJHawR1QfmmpJTanaJLp7WuMcuIlvrjEveCeBMLNmYXXDgKHKsCmUbKDSATcAx0bEenq1_Dld4uEK3vJHezdKQ_vPfCnzg3UYrwc7x0uBgvOTCrEcsQlKe7lPKY7e2vWiWTlrpsVZq6z0U7C3Q5JNLCnEIkeWUvweHoVTMqp741p4mg9RRAYkQ"
+    },
+    {
+        "id": "681987f124c9061ac54aa569",
+        "title": "Doraemon: Nobita's Three Visionary Swordsmen",
+        "description": "Tired of constantly having nightmares, Nobita ask for Doraemon to bring a Dream Machine which would allow Nobita to dream of anything he wants. After an attempt to have a dream about the fall of Atlantis fails, he chooses a dream where he is in a fantasy world with an inspiration from The Three Musketeers. Together Nobita and his friends must defeat the evil King before he escapes from Nobita's dream into other people's dreams.",
+        "image": "https://image.tmdb.org/t/p/w500/oCQtdezF7Ap5wm8ICiB3Pzx6wM4.jpg",
+        "year": 1994,
+        "rating": 8.7,
+        "duration": 100,
+        "tags": [
+            "Animation",
+            "Family"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v42.m3u8cat.workers.dev/playlist/CY8BxMiOzGKg7dr9WtIR4zu-Ckyw7hk92nFDx_jVhHl_bkA7QB_zhc76PLsYyD3_K5iVbPJzcrYxq2gvj4vVyvcsaa7vDPl7iJOhDAL8g1gxXuGca0NE2eWPX-QO2x6a6axiBPjHPiHsPPh3-WImbNqk0gBe6rWWYzlA76p8hOjhAvgGcYGVAlB_QJbE85QC0FDrW7o8tdZYW_hhOL62Nd9hCzMYsDB_dgI"
+    },
+    {
+        "id": "68d7cd22c05a53cb918fa266",
+        "title": "Shin chan Horror Episodes Collection (Part 2)",
+        "description": "Part 2 of the Shin Chan Horror Collection Series, all segments are cencored",
+        "image": "https://user-images.lasyhost.tech/images/2026/01/e6ada09a6b527a2b85139618184815b8.jpg",
+        "year": 2025,
+        "rating": 9.0,
+        "duration": 41,
+        "tags": [
+            "Animation",
+            "Horror",
+            "Shin Chan"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v130.wkr130x7442wkr130x7442wkr130x7442.workers.dev/playlist/7oYpHV0MOYfikJ-2epkY7goEN9DInBcMQ8Q6Iyd72j3NZBfntUh9F_NW_6-qexwIBgGHKyrxaO0gNKr1IXSiaTGwph3KfgM0JC_081EZCBosAZNQUCb4KPeSZhdTVyTWCuGP0Qt5nVKvc0uSOYgpR4_qaJ9JQZCO3nhjmbuujUtLjn6ZkYX6322A7M2xOYZvtUtyRWM"
+    },
+    {
+        "id": "68a456156a8ec0f66f205d17",
+        "kind": "episode",
+        "title": "Hamara Wala Oggy \u00b7 S1E1",
+        "description": "A light blue cat named Oggy gets a box of cherry-chocolates delivered to his home and goes inside to enjoy them. However, his archenemies, three mischief-making cockroaches named Dee Dee, Joey, and Marky, have decided to take the sweets for themselves, and a chase begins throughout the house. Oggy\u2019s cousin, Jack, nurses Oggy and vows to get back the box of sweets, even if it involves blowing up the house. This is the first episode that started the rivalry between cat and roaches.",
+        "image": "https://image.tmdb.org/t/p/w500/aFAN9aKm0OblOr30ROejJCV8rGf.jpg",
+        "year": null,
+        "rating": null,
+        "duration": 7,
+        "tags": [],
+        "group": "show",
+        "episode": "S1E1",
+        "stream": "https://v82.m3u8rsk.workers.dev/playlist/rKbg6rRUpXpPtoHxPwmIpFiIXex5_SiEJelgoE5XoMOeifqWw57c767r9TS1rjgn1GDDi2R-acr0Gnul_LCal4EgidHZOUcl4X1PGF0h31rAY3BnIymJnFJJgfkSSNGVk04tMDxF6X5ZWzbMdHDRbKA8WJDT7jBDOdGxiwygEWFIf8942dZH1l4"
+    },
+    {
+        "id": "68a456156a8ec0f66f205d18",
+        "kind": "episode",
+        "title": "Hamara Wala Oggy \u00b7 S1E2",
+        "description": "During an afternoon, Jack is snoozing on his hammock while Oggy is tending the garden. The roaches jump into Jack's head so that they can control him to wreak havoc on Oggy.",
+        "image": "https://image.tmdb.org/t/p/w500/aFAN9aKm0OblOr30ROejJCV8rGf.jpg",
+        "year": null,
+        "rating": null,
+        "duration": 7,
+        "tags": [],
+        "group": "show",
+        "episode": "S1E2",
+        "stream": "https://v20.worker20-120.workers.dev/playlist/faajIIo42GSwWs-9bfwmGYQN4z3wDWyphVpEVlGGbryUOamPCU8eFTTWvLVDNBDFTc6A1BBEUFNunrWaF5nys1aUmEgOmMoEe8iTFbQuz7y2ARHwoaqKmnHNV2y-ytAmXwvMXOqPA1tCP0AxL89RhQ8b8ZenaQQFeCybgSitb6IjYuO3dd6csZU"
+    },
+    {
+        "id": "693acd83184e77f559062d7e",
+        "kind": "movie",
+        "title": "Motu Patlu and The Madness of Multiverse",
+        "description": "Motu and Patlu join forces with their future and prehistoric selves to stop evil versions of them who plan to destroy every Motu-Patlu across time.",
+        "image": "https://user-images.lasyhost.tech/images/2026/01/d2cd1d06dacb0ea8c5754bc64853d96e.jpg",
+        "year": 2025,
+        "rating": 6.2,
+        "duration": 69,
+        "tags": [
+            "Animation"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v107.m3u8v107x.workers.dev/playlist/Jv0IwqoIWRqeMKIMofx-cgKQ4RidJfMmM46cv05wBqXwoCJ592vxsKLa-O5xoGJkQrNdrCy0sTs0UENMQ4_yW3VwtUq9dvkrzbwUtBOVb5MBXKaEiF4QCjncsapviAobJ9tSOUCu1SJ4AIh9kSqkpKakF8wESTILyAXzDVYDS7k5WUGhlDdxH9JyLZUJoVgvfTg3wyfZ4k2ApixvIzh5znsnG0E"
+    },
+    {
+        "id": "685512e191df6adc34090e6b",
+        "kind": "movie",
+        "title": "Motu Patlu & Robo Kids",
+        "description": "For Motu, facing off against three children becomes an unexpected challenge when he realizes they have superstrength -- and a secret!",
+        "image": "https://image.tmdb.org/t/p/w500/zNhLhelKu3F3UAvam9usXtMuXSO.jpg",
+        "year": 2019,
+        "rating": 6.2,
+        "duration": 82,
+        "tags": [
+            "Animation"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v127.wkr127x7399wkr127x7399wkr127x7399.workers.dev/segment/AceoRhEuE1nDMg1H0Qc3MtQLbj6CXd8XW2bwyV07VsJpxwwpQscYTwZpyfMUr4q-nHXaTru-yFE3SC_4NTOHxQ79gi7E7FxHOT3IMkjqYB7OwpmQyIR8_pjw4OO7EydMzub1K6_rzGdKW1PCDarbeQORimD8eCvNyHOgUvRp7iuEQlP-_zZPAfItfAPfMWqkHwE3m5S7wJSZw2Po4cVUZpbtsTVlD68gCvlcqtA6pOv--YwmQQ"
+    },
+    {
+        "id": "693acb691d83046768aa2e97",
+        "kind": "movie",
+        "title": "Motu Patlu & the Mighty Magnathor",
+        "description": "The duo of Motu and Patlu journey to the land of Gagnathoros, inhabited by giants. They encounter the Magnathor, who aims to shrink planets for his crown. Motu and Patlu must battle beasts and protect the Moon and Sun.",
+        "image": "https://user-images.lasyhost.tech/images/2026/01/79795fe60455849273bad62e5d4a4ae9.jpg",
+        "year": 2025,
+        "rating": 8.5,
+        "duration": 68,
+        "tags": [
+            "Hindi",
+            "Animation"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v1.m3u8lock.workers.dev/playlist/Gi-0T9rSCEfe-YyaIiJm5TT0LEg_knTQJomqb9FhZPcFg2GORW5TKwlyy4kdHYnSLwSOzWeX8DOjM6-fAcTaQdXl3v5Y8t4gUEkV-A8CoV8LLyu3Le4OFMwbQDMI9khzlesJqL52VieA2LaGDeSpruBcOkVOYv19tahxaO-udssH9Yf3roBhGd-jdQv_wrHLQmtpRsdRU0LmJmehibhHiKmQjUs"
+    },
+    {
+        "id": "681c9e9a5edd6fa782ea65a7",
+        "kind": "episode",
+        "title": "BLUE LOCK \u00b7 S1E3",
+        "description": "The first selection is the round-robin tournament of five teams of V, W, X, Y and Z in Building Five, with only top two teams being eligible to move forward. Isagi's Team Z, the lowest ranking team, plays against Team X. But because of the special rule that allows the top scorer of the team to proceed to the next section, the match turns into chaotic scrambling for the ball, regardless of the teams. It was Barou Shoei, Team X's formidable striker, who changes the flow of the game.",
+        "image": "https://image.tmdb.org/t/p/w500/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+        "year": null,
+        "rating": null,
+        "duration": 25,
+        "tags": [],
+        "group": "show",
+        "episode": "S1E3",
+        "stream": "https://v76.m3u8lme.workers.dev/playlist/tp1K_7C9heNQ6hNymPh6spm8PfvuSNFcDdv4JsfOLrjlZ31DsxaPn9-6U1Lnl2RIhN4XHfxg7giYTSPXcVFRuM636nXUYG0LG-Z3APKMW3zt8NZbXyzRaH14YN5pE2DDz5G7RYtvGjd1yWdosBmyPOVlcgqf-iRaUhqPFT3t3owl4FBI3wC5BDWk_R99K8-yZJKAwOjs-9Ku7f7ReQtzjd9crmRgi2uxLm4vtmiQrzr6euyYlH4C"
+    },
+    {
+        "id": "681c9e9a5edd6fa782ea65ad",
+        "kind": "episode",
+        "title": "BLUE LOCK \u00b7 S1E9",
+        "description": "The match continues to leave Team Z scared of Nagi's abilities. However, one of the members is not scared, even though they are facing a soccer genius...?",
+        "image": "https://image.tmdb.org/t/p/w500/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+        "year": null,
+        "rating": null,
+        "duration": 24,
+        "tags": [],
+        "group": "show",
+        "episode": "S1E9",
+        "stream": "https://v27.m3u8go.workers.dev/playlist/F2crObzT6yH9A1jrrwo1SaF7laKl0JkXaMRg_eIoomca0I4KaUFHC2JV1ICdDwP9bj1U9VH6BKHi6dvZmR0gtVY6mX62ZBzDl-H0soFUYVbyLL4JFhCoZyTJn6xGL7peThPeUomGcWLb60P0FRipcluY6cniba0B8hVwZYDZP4uKstElj-XUWu_vYZJVsfaZ4w-JrmYnG8VIpX1l7av9HdBJeJW0M2eqLr9wla5tRChUzNjzSDUj"
+    },
+    {
+        "id": "6a85609954701b108f1c8860",
+        "kind": "movie",
+        "title": "Chhota Bheem: The Curious Case of Swapped Souls",
+        "description": "",
+        "image": "https://user-images.dizzyhost.tech/thumbnails/52174e76276531be7fc23b7e49317201.jpg",
+        "year": "2026",
+        "rating": 9.2,
+        "duration": 44,
+        "tags": [],
+        "group": "Cartoon",
+        "stream": "https://v165.wkr165x4113.workers.dev/playlist/DtyORwfkIO9EUBRCD0GWEeUu4W04UocNT0P6gJzLWsJwmk7kg0_LxVzmnbmdI_StG9PReJ2YGoq3NmAXeJNF0ix5n-XtcENOrmDnPSMHeXPyzSfiOOFMQeArUnJ9PsCKpf9LYzJOIBYG3a4Ur-5lkAP5imP3Kv8Zk4P_zSzZO8DGXwQILycgkGd8r8LfxDqHZvWxE0ajiVCU603kiGpNoiYOwLg"
+    },
+    {
+        "id": "6a698595bd47b37050996609",
+        "kind": "movie",
+        "title": "Mufasa: The Lion King",
+        "description": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "image": "https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+        "year": 2024,
+        "rating": 8.4,
+        "duration": 118,
+        "tags": [
+            "Adventure",
+            "Family",
+            "Animation"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v138.wkr138x2819.workers.dev/playlist/bumlaf_wbCiHsRWqv_Ex6XcGUXt7gTH-8Mc3puIn-OSopapDMe3hYVBGjV8fC5m1UNXMIiZzqVpi3rZngZHxYyf15UeikKi6VmatINbk4TZaa1ittCHVe7yhIWf1Z_LS6mnC--54fDb2tDGodwis4R-ITymNSegWyVefY7rdVVkzju5BKnYuL4LXre2AKsbGTM9dPQnpTVjyG8JbfI5iSN6DtyhJFXkE"
+    },
+    {
+        "id": "6a0731ffc174644a267c8a6f",
+        "kind": "movie",
+        "title": "Doraemon Indian Special: Jahan Shizuka Wahan Nobita",
+        "description": "Note: Poster is AI Generated",
+        "image": "https://user-images.dizzyhost.tech/images/82940c3e8088abb3a9bcf1621939555c.png",
+        "year": 2024,
+        "rating": 7.0,
+        "duration": 167,
+        "tags": [
+            "Animation",
+            "Anime",
+            "Comedy",
+            "Kids",
+            "Adventure"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v28.m3u8jump.workers.dev/playlist/q0wRWxMys0JLMB9bOj0eAa3ai-rbetXC-sl13Cu61N2d2kYPa3UXKOV0UueiMv-VozqinSIs6TFOHolt_z1vKuz5pTBNvU8av4BqO-MjCsNIsZNfaPdNCgxgO_nb4XRRy2A9ZpYW8ZEwIQsNjD4xtqjU2Yb3kZ2NafVwBfhjVtDC1SqQHOhf5pbVETWxtTJWNVnAUQAu8nQMa7msr4IMh2HuokZaEvZTTw0ZxIk8"
+    },
+    {
+        "id": "6a0731ffc174644a267c8a70",
+        "kind": "movie",
+        "title": "Doraemon Indian Special: Horror On 31st Oct",
+        "description": "Note: Poster is AI Generated",
+        "image": "https://user-images.dizzyhost.tech/images/c9f1453480709d714c8f9045c23bc531.png",
+        "year": 2025,
+        "rating": 8.6,
+        "duration": 90,
+        "tags": [
+            "Animation",
+            "Anime",
+            "Comedy",
+            "Kids",
+            "Halloween",
+            "Adventure"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v141.wkr141x6906.workers.dev/playlist/36ySU_ocEoDugntc_5ySYduGirf6Gi7hSo8kPmyh3Ca_Ld-Z1u7_wE8XbGihoC99Q-ZAaYxMj_aqp7hw2vRH2xwwfNqG1LX7Ml8ZeJx-yDNIkTA8tlAdQgkpa0MrxeXbtzC4QoVrnGyGztSogzg36mm1ixMtawFhoR1GHWKQdFj0mleXjba2VWldJxCY4J27MlkBktYxD9lbX9NXm1Ihm21_5rOzLYEgXJUZaV49"
+    },
+    {
+        "id": "69da6b750e22abfb101da77c",
+        "kind": "movie",
+        "title": "Shin chan: The Spicy Kasukabe Dancers in India",
+        "description": "Shin-chan and his friends travel to India for a dance festival, but Bo-chan accidentally becomes possessed by an evil force from a mysterious backpack and turns into a powerful tyrant. Now, the Kasukabe Guard must work together to save Bo-chan and stop his rampage.",
+        "image": "https://image.tmdb.org/t/p/w500/bxLr3VzoSq0G4CSWUCnZBNS8Eeh.jpg",
+        "year": 2025,
+        "rating": 8.4,
+        "duration": 105,
+        "tags": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v4.m3u8locked.workers.dev/playlist/PqCs3p9poBcDKWSl3wFSfCcefuVW76k9L-gNypgcGyLZdUBs_nsHjcixP-Qi4PNf23BV6IdtYAGT-nles1N-SJ2efcHCxE1447L3gnNN766FYS9JHE98Io9cSks13PjNW68T2PyppzoPIwmrFXTdrkw0QKGOCzJE9NJ1M4KTARKELoIHNQeYSxaER7tUZAx3fhDEAdYzApritwQOFefh9z-CbVbT"
+    },
+    {
+        "id": "69e1feaae6a59732f5d82894",
+        "kind": "movie",
+        "title": "(CAMAUDIO) Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+        "image": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "year": 2025,
+        "rating": 8.3,
+        "duration": 156,
+        "tags": [
+            "Animation",
+            "Action",
+            "Fantasy"
+        ],
+        "group": "Anime",
+        "stream": "https://v35.m3u8hit.workers.dev/playlist/4w5wHEOylD6YuHZP_GX7EsvYaYZiwldDvNZY5Jey-SncfldyXqUVJZSP-yivGnSuW9D4s-khvyl9A6AojS5epAtiNIy1JeFFMH4X923n5aRaY0u8tvy-KKmZTmU7GkDjpI1tOVMl517T73WOSVfLUbsiA_5P5gbDbs5vIP5nyVvUggaY4-e7UAGgO81I1yMV3g2g__OAh4EO84__jWw2ZU5c_BkQt5o"
+    },
+    {
+        "id": "693aca29184e77f559062d45",
+        "kind": "movie",
+        "title": "Motu Patlu and The Case Of Project X",
+        "description": "\"Motu Patlu and The Case Of Project X\" is the thirty-fourth animated mini-movie of the Motu Patlu franchise. The film premiered on Nickelodeon on March 14, 2025. ",
+        "image": "https://user-images.lasyhost.tech/images/2026/01/f4868cf34a45843e1b15f68ca6b7a375.jpg",
+        "year": 2025,
+        "rating": 8.0,
+        "duration": 46,
+        "tags": [
+            "Comedy",
+            "Sitcom",
+            "Kids"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v23.m3u8crop.workers.dev/playlist/Nrsc6N64ogCZFJOMzJp2SACMClVxlqTXNY6-a8njgtmHmb7XdT_UNFvYm3r6N3rY1f7JSBRNwd7ZboKp4XkBwQ_iRBV4QblMtp4T4v37VcXjokMLHor4cCCUxne4kMpzOxeUnwNV7gNkS0ncxaCUyLzKmvO9vaQr_IWXbhhXAZIbuIp6DOgU2B-HkIDM_VA8nr8Z38m-OSe9-bGtcuhVOe9fSbE"
+    },
+    {
+        "id": "69ae813c986829a30a897be0",
+        "kind": "movie",
+        "title": "Motu Patlu Ka Goa Dhamaal",
+        "description": "Motu Patlu Ka Goa Dhamaal\nis a 2026 animated TV movie where Motu, Patlu, and friends travel to Goa to rescue Ghasitaram",
+        "image": "https://user-images.dizzyhost.tech/images/e2fbb7b35cd3f89507c0e5e99c4cd5b8.jpg",
+        "year": 2026,
+        "rating": 8.2,
+        "duration": 43,
+        "tags": [
+            "Animation"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v53.m3u8oak.workers.dev/playlist/BL5Fhta8QOCoA3Pszdk59MTD-nlJkEvYgo-0WmHTZSmV02AlmvC0jKGXhn9-M7FMqqpkfRNpXpX960GSUUQCp1jFjV1eF42pQg8Rp6_WukKj5Nz1rxeWVqyXtnc_x6__umLM-YKrncRZC6yJRtdgW3_Xua7ncX3_W851gczOiQfx7_11gGDLWgYFeo2Cj6l1sXo0GFoZNUB_oljeISa2QOCalZCy4k_sr3WawVXI"
+    },
+    {
+        "id": "6a6c38b7fe8f0744607af687",
+        "kind": "movie",
+        "title": "(FANDUB) Grave of the Fireflies",
+        "description": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+        "image": "https://image.tmdb.org/t/p/w500/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+        "year": 1988,
+        "rating": 8.6,
+        "duration": 89,
+        "tags": [
+            "Animation",
+            "Drama",
+            "War"
+        ],
+        "group": "Anime",
+        "stream": "https://v45.m3u8fan.workers.dev/playlist/7alJG0HQ4Mi84xoYuJTAl8GRxpq4a7YByopLUkNEnbZkqAUVNyg7-9ttnDToGbyVZjLGWBdKYq29TGmXPumIm6kMGa7wijGsJeddraybZlhBohU2tbwZkkWNwVXfnCPEWOsyLwJjw9HOiqRl6fnnhKGBNicWkS7qz9Id_A0ww9iMlVMdwT7atYC6UO5JgyZZ_dzKmV4dxmLgYO2t05hRabiFARM"
+    },
+    {
+        "id": "699fd07a26289e22f114518e",
+        "kind": "movie",
+        "title": "Roll No 21: Kris Aur Ande Ka Funda ",
+        "description": "The series is a modern take on the rivalry between Krishna and Kansa. Kansa has reincarnated on Earth in the form of Kanishk ,the smooth talking Principal of Mathura Anath Ashram. He tries to win complete obedience of his school and kids before conquering the world. However, Kris, the reincarnation of Lord Krishna, makes it difficult for Kanishk as he keeps the goodness in all the kids alive. In order to get rid of Kris, Kanishk calls various monsters and demons from Paataal Lok (the Netherworld) to fight and beat Kris, but using his wit and mystical powers, Kris keeps defeating all the demons. All of Kanishk\u2019s attempts fail as Kris with his friends overcome all the obstacles Kanishk creates for them.",
+        "image": "https://user-images.dizzyhost.tech/images/cb8d57c5c85ad7b5f56d99ff0a9a4908.jpg",
+        "year": 2017,
+        "rating": 7.8,
+        "duration": 68,
+        "tags": [
+            "Animation",
+            "Kris",
+            "Kid's"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v34.m3u8bit.workers.dev/playlist/UxcNI70MhelXg3fk9a1UX8aS-3Zws4QydxRn1zldVYPKtW14fW_p1Mvg1EC8dPC5C15XtJ5SPvs24ngf9n4lTXjcKLvasbqd60P72crcJGg9eetr5U26JwdkjwrZuA54az8Hi2wgcbdWU_tQ3U58KLA8iiJPcbss7iWUZ5HIP9ENVXX-F7ZG1fbRrHZ1jgLfMsK9vs8DOx9BANZUfNzTmOuZncIoeZk"
+    },
+    {
+        "id": "699fd5b626289e22f114520d",
+        "kind": "movie",
+        "title": "Roll No 21: Kris Aur Japaani Jhanjaal",
+        "description": "Krish, the reincarnation of Lord Krishna, is sent to safeguard the children of Mathura orphanage. There, he fights against the evil principal, Kanishk, in his own mischievous and inimitable way.",
+        "image": "https://user-images.dizzyhost.tech/images/04ddc4a4001049ad4e9c0e0c9f3ae7fc.jpg",
+        "year": 2019,
+        "rating": 6.6,
+        "duration": 65,
+        "tags": [
+            "Animation",
+            "Kid's"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v8.worker8-a96.workers.dev/playlist/NIId1dwLQ2DOXMkQY4p_tfDQ0q_OL10Ydx9gnrGV2nkVDejGeQW-qJ4y2NlJEszhBQFBrYSEnwUiA9vyNu_9n_A_AuRKhX1mpfqQeZrTvbvX9O7iW8bAet2clYlRj-2Vpip5ReG9q_nwfwb0cr28aDb3RIXevy1X6EOQLEVsqueIR97hmJBcA3qCeZX2ctmWCdYD9RvvietjU0Fot1l6IlDWh8zPk7w"
+    },
+    {
+        "id": "699fd24e26289e22f11451c5",
+        "kind": "movie",
+        "title": "Roll No 21: Kris Aur Barfeela Baffu",
+        "description": "Krish, the reincarnation of Lord Krishna, is sent to safeguard the children of Mathura orphanage. There, he fights against the evil principal, Kanishk, in his own mischievous and inimitable way.",
+        "image": "https://user-images.dizzyhost.tech/images/443f2d10f0c096f71c8b333a1cbce9b4.jpg",
+        "year": 2019,
+        "rating": 8.6,
+        "duration": 77,
+        "tags": [
+            "Animation",
+            "Kid's"
+        ],
+        "group": "Cartoon",
+        "stream": "https://v103.m3u8v103x.workers.dev/playlist/MeorYL9OS-a4N6LGeDDDAtABbKqt0PG534VGkSE1tOFqGCM0a8HSBtLzB2nVAxYFLxph7wFpy1TcckZSqUUZhsoN_J7yQdV-CoEJ5mvTVZeLv1UAu0pBV8it0W4nEXnHgHYxqXOntYxZsQpNzAG5HnoZFg4O84u7w464tgb8fRDWJHKT9rhgLLDm6xMPg6CULtcB2s3x8kiZL8DRtmA0JyPBwHIhZGE"
+    }
 ]
